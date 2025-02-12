@@ -1,8 +1,7 @@
 # CarPrices-Prediction
 Buiding a model to determine the price of a used car to optimize revenue. 
 # Objective
-To determine the best-performing model to determine the price of the used car.
-Providing the most important features which determine the price. 
+To determine the best-performing model to determine the price of the used car and providing the most important features which determine the price. 
 # Data Description 
 Id: Unique ID assigned to a specific car.
 year: Manufacture year of the car.
